@@ -4,6 +4,9 @@
 
 [Click here to jump to the original dataset](https://data.insideairbnb.com/united-states/hi/hawaii/2024-03-22/data/listings.csv.gz)
 
+**Because the file is too large, the data in part of the file is displayed here：**
+
+
 | id      | listing_url                                | scrape_id      | last_scraped | source          | name                                            | description                                      | neighborhood_overview                          | picture_url                                     | host_id   | ... | reviews_per_month |
 |---------|--------------------------------------------|----------------|--------------|-----------------|-------------------------------------------------|--------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-----------|-----|-------------------|
 | 34421962| https://www.airbnb.com/rooms/34421962      | 20240322023526 | 2024-03-22   | city scrape     | Waipouli Beach Resort E106                      | Beautiful Luxury Inner Courtyard Garden View... | NaN                                             | https://a0.muscache.com/pictures/prohost-api... | 34386367  | ... | NaN               |
